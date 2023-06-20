@@ -1,6 +1,6 @@
 # Machanger
 
-By: wh04m1
+By: JDPT
 
                                                MACHANGER v.1      
                                    Cambia tu direccion MAC automaticamente
