@@ -26,7 +26,7 @@ sudo apt-get install pylint
    
 sudo apt-get install net-tools
   
-git clone https://github.com/1mwh04m1/machanger.git
+git clone https://github.com/JorgePincayT/machanger.git
 
 cd machanger
     
